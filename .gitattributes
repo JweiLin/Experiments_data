@@ -2,3 +2,7 @@
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.out filter=lfs diff=lfs merge=lfs -text
+*.network filter=lfs diff=lfs merge=lfs -text
+*.position filter=lfs diff=lfs merge=lfs -text
+*.die filter=lfs diff=lfs merge=lfs -text
+*.net filter=lfs diff=lfs merge=lfs -text
